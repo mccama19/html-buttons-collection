@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>buttons</title>
+</head>
+<body>
+<div>
+	<button style="background-color: red">Click Me</button>
+	<button style="background-color: orange">Click Me!</button>
+	<button style="background-color: yellow">Click Me!</button>
+	<button style="background-color: green">Click Me!</button>
+	<button style="background-color: blue">Click Me!</button>
+	<button style="background-color: purple">Click Me!</button>
+	<button style="background-color: pink">Click Me!</button>
+
+
+</div>
+
+</body>
+</html>
